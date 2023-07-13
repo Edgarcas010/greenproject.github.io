@@ -1,0 +1,96 @@
+*{
+	font-size: 25px;
+	font-family: 'Poltawski Nowy', serif;
+	font-weight: 700;
+	text-decoration: none;
+}
+a{
+	color: black;
+}
+nav{
+	display: block;
+}
+h5{
+	display: inline;
+	width: 50px;
+	padding: 0px 0px 0px 100px;
+}
+p{
+	margin: 25px;
+}
+h6{
+	padding: 0px
+	height: 0px;
+	font-size: 10px;
+}
+.ip{
+	margin: 50px;
+}
+.i{
+	height: 450px;
+	width: 1350px;
+}
+.top-bar{
+	background: #808080;
+	height: 500px;
+	margin: 0px;
+}
+.m{
+	padding: 0px 50px 0px 15px;
+	border-style: inset;
+	border-radius: 25px;
+	}
+.t{
+	padding: 0px 50px 0px 15px;
+	border-style: inset;
+	border-radius: 25px;
+}
+.o{
+	padding: 0px 50px 0px 15px;
+		border-style: inset;
+	border-radius: 25px;
+}
+.u{
+	padding: 0px 50px 0px 15px;
+		border-style: inset;
+	border-radius: 25px;
+}
+.y{
+	padding: 0px 50px 0px 15px;
+		border-style: inset;
+	border-radius: 25px;
+}
+.cp{
+	border-style: ridge;
+	border-color: skyblue;
+	border-radius: 50px;
+}
+.cn{
+		border-style: solid;
+	border-color: skyblue;
+	border-radius: 50px;
+	border-size:25px;
+}
+.cq{
+		border-style: solid;
+	border-color: skyblue;
+	border-radius: 50px;
+}
+.bt{
+	width: 250px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 50px;
+	background: skyblue;
+}
+.ft{
+	background: skyblue;
+}
+.fr{
+	border-style: solid;
+	border-color: skyblue;
+	border-radius: 15px;
+	padding: 20px;
+	margin: 0px 450px 0px 450px;
+	background: skyblue;
+}
